@@ -8,7 +8,7 @@
 <div>
   
 <h1>💻 Descrição</h1>
-<p>Depoios de sempre fazer as mesma configurações para começar um novo projeto com Next.Js. Decidi criar um template contendo as configurações que acho necessárias.</p>
+<p>Depois de sempre fazer as mesma configurações para começar um novo projeto com Next.Js. Decidi criar um template contendo as configurações que acho necessárias.</p>
 
 </br>
 
