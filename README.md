@@ -1,36 +1,58 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+<div align="center" >
+  <h1 align="center" > 
+   🚀
+    Templeate para novos projetos Next.Js </h1> 
+</div>
 
-First, run the development server:
+<div>
+  
+<h1>💻 Descrição</h1>
+<p>Depoios de sempre fazer as mesma configurações para começar um novo projeto com Next.Js. Decidi criar um template contendo as configurações que acho necessárias.</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+</br>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<h1>🚀 Tecnologias</h1>
+</br>
+<p>Esse template usa as seguintes seguintes tecnologias:</p>
+<span>
+- ✔️ Next.js v 14 </br>
+- ✔️ Tailwind CSS </br>
+- ✔️ Shadcn ui - Ótima biblioteca de componetes </br>
+- ✔️ TypeScript </br>
+- ✔️ ESLint - Linter para analise estatica do código </br>
+- ✔️ Plugin para EsLint - eslint-plugin-react-hooks - Este plugin ESLint impõe as Regras de Hooks  </br>
+- ✔️ Prettier - Formatador de códigos  </br>
+- ✔️ Plugin do Prettier para o EsLint </br>
+- ✔️ Husky - Impede a inserção de commits que podem quebrar a aplicação </br>
+- ✔️ Lint Staged - Garantir que nenhum erro vá para o repositório e imponha o estilo de código</br>
+- ✔️ Dependa Bot - Garantir que as dependências do projeto esteja atualizadas </br>
+  
+</span>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<h1>⚠️ Obervação</h1>
+</br>
+<p>Para o funcionamento do Prettier e EsLint é excepcional ter a extensão dos mesmos instalado no seu VsCode</p>
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+</div>
+ 
+<div>
+<h1>ℹ️ Como usar</h1>
+<div class="highlight highlight-source-shell"><pre>
 
-## Learn More
+<span class="pl-c"><span class="pl-c">#</span> Clone o repositorio</span>
+$ git clone [https://github.com/Ulisses97/todo-drag-and-drop.git](https://github.com/Ulisses97/template-project-nextjs.git)
 
-To learn more about Next.js, take a look at the following resources:
+<span class="pl-c"><span class="pl-c">#</span> Entre na pasta do repositorio </span>
+$ <span class="pl-c1">cd</span> template-project-nextjs
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<span class="pl-c"><span class="pl-c">#</span> Instale as dependências</span>
+$ <span class="pl-c1">npm</span> install
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<span class="pl-c"><span class="pl-c">#</span> Execute o projeto</span>
+$ <span class="pl-c1">npm run</span> dev
 
-## Deploy on Vercel
+</div>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<footer><p>Feito com o ♥ por <a href="https://www.instagram.com/ulisses.brandao/">Ulisses Brandão</a>👋</p> </br>
+<p>☕Bora tomar um café e conversar melhor?</p></footer>
