@@ -14,7 +14,7 @@
 
 <h1>🚀 Tecnologias</h1>
 </br>
-<p>Esse template usa as seguintes seguintes tecnologias:</p>
+<p>Esse template usa as seguintes tecnologias:</p>
 <span>
 - ✔️ Next.js v 14 </br>
 - ✔️ Tailwind CSS </br>
