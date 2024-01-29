@@ -30,7 +30,7 @@
   
 </span>
 
-<h1>⚠️ Obervação</h1>
+<h1>⚠️ Observação</h1>
 </br>
 <p>Para o funcionamento do Prettier e EsLint é excepcional ter a extensão dos mesmos instalado no seu VsCode</p>
 
